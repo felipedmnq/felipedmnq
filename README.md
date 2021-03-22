@@ -1,12 +1,16 @@
-### Hello!! I'm Felipe Demenech Vasconcelos👋
+### Hey there👋
 
+I'm Felipe Demenech Vasconcelos.
+
+I am an Environmental Engineer with experience in the water treatment process and water treatment systems and nowadays looking to the way of data science (the future:crystal_ball:). 
 
 [![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-demenech/)](https://www.linkedin.com/in/felipe-demenech/)
 
-- 👯 I’m a Environmental Engineer learning Data Science
-- 🔭 I’m currently looking for opportunities in Data Science
-- 🌱 I’m currently in a learning path on Data Science and AI
+- 👯 I’m a Environmental Engineer learning Data Science.
+- 🔭 I’m currently looking for opportunities in Data Science.
+- 🌱 I’m currently in a learning path on Data Science and AI.
 - 📫 How to reach me: [E-mail](mailto:felipedmnq@gmail.com), [LinkedIn](https://www.linkedin.com/in/felipe-demenech/)
+- ⚡ Fun fact: I'm also a German lerner and I can tell: learn German is very harder than learn Data Science tools and concepts!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=felipedmnq)
 
