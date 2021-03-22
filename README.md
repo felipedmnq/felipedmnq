@@ -6,11 +6,11 @@ I am an Environmental Engineer with experience in the water treatment process an
 
 [![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-demenech/)](https://www.linkedin.com/in/felipe-demenech/)
 
-- 👯 I’m a Environmental Engineer learning Data Science.
+- :four_leaf_clover: I’m a Environmental Engineer learning Data Science.
 - 🔭 I’m currently looking for opportunities in Data Science.
 - 🌱 I’m currently in a learning path on Data Science and AI.
 - 📫 How to reach me: [E-mail](mailto:felipedmnq@gmail.com), [LinkedIn](https://www.linkedin.com/in/felipe-demenech/)
-- ⚡ Fun fact: I'm also a German lerner and I can tell: learn German is very harder than learn Data Science tools and concepts!
+- ⚡ Fun fact: I'm also a German lerner and I can tell: learn German is very harder than learn Data Science tools and concepts!:warning:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=felipedmnq)
 
