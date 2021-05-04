@@ -75,7 +75,7 @@ I am an Environmental Engineer with experience in the water treatment process an
       </td>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Streamlit</span><br><br>
+        <span>BeautifulSoup</span><br><br>
         <img height="64px" src="https://sixfeetup.com/blog/an-introduction-to-beautifulsoup/@@images/27e8bf2a-5469-407e-b84d-5cf53b1b0bb6.png">
       </td>
     </tr>
