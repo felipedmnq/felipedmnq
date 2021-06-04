@@ -10,7 +10,7 @@ I am an Environmental Engineer with experience in water treatment process and wa
 - 🔭 I’m currently looking for opportunities.
 - 🌱 I'm currently in a learning path to programming in Python for general purposes with focus on Data Science.
 - 📫 How to reach me: [E-mail](mailto:felipedmnq@gmail.com), [LinkedIn](https://www.linkedin.com/in/felipe-demenech/)
-- ⚡ Fun fact: I am also a student of German language and I can tell: learn German is very harder than learn Data Science tools and concepts!:warning:
+- ⚡ Fun fact: I am also a German language student and I can tell: learn German is very harder than learn Data Science tools and concepts!:warning:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=felipedmnq)
 
