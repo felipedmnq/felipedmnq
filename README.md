@@ -2,7 +2,7 @@
 
 I'm Felipe Demenech Vasconcelos.
 
-I am an Environmental Engineer with experience in water treatment process and water treatment systems. Nowadays I'm in the way of learning programming with Python and Data Science (the future:crystal_ball:). 
+I am an Environmental Engineer with experience in water treatment process and water treatment systems. Nowadays I'm in a learning path to become a Data Scientist (the future is now:crystal_ball:). 
 
 [![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-demenech/)](https://www.linkedin.com/in/felipe-demenech/)
 
