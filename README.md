@@ -1,12 +1,12 @@
 ### Hey there👋
 
-I'm Felipe Demenech Vasconcelos.
+My name is Felipe Demenech Vasconcelos.
 
-I'm an Environmental Engineer with experience in water treatment process and water treatment systems. Nowadays I'm in a learning path to become a Data Scientist (the future is now:crystal_ball:). 
+I'm an Environmental Engineer with experience in water treatment process and water treatment systems. Nowadays I'm in a learning path to become a Data Engineer (the future is now:crystal_ball:). 
 
 [![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-demenech/)](https://www.linkedin.com/in/felipe-demenech/)
 
-- :four_leaf_clover: I’m a Environmental Engineer learning to become a Data Engineer.
+- :four_leaf_clover: I'm a Environmental Engineer learning to become a Data Engineer (and join both knowledges).
 - 🔭 I’m currently looking for opportunities.
 - 🌱 I'm currently in a learning path with focus on Data.
 - 📫 How to reach me: [E-mail](mailto:felipedmnq@gmail.com), [LinkedIn](https://www.linkedin.com/in/felipe-demenech/)
