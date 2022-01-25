@@ -10,8 +10,8 @@
 </div>
   
 <div align="left">
-  <a href = "https://databricks.com/learn/training/home" target="_blank"><img height="120" src="https://databricks.com/wp-content/uploads/2021/12/lakehouse-fundamentals.png" target="_blank"></a>
-  <a href = "https://www.credential.net/7913b188-e5e6-4f03-b651-6fc621292cbb" target="_blank"><img height="100" src="https://miro.medium.com/max/800/0*53zG2vyo0yJuEpFr" target="_blank"></a>
+  <a href = "https://www.credential.net/a2c8e1d4-3c0a-49d3-b0a9-3d3ead284afd#gs.mzn2kf" target="_blank"><img height="120" src="https://databricks.com/wp-content/uploads/2021/12/lakehouse-fundamentals.png" target="_blank"></a>
+  <a href = "https://www.credential.net/e1dbedb3-b5e1-4ccd-8b99-020c149faf2b#gs.mzmwon" target="_blank"><img height="100" src="https://miro.medium.com/max/800/0*53zG2vyo0yJuEpFr" target="_blank"></a>
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-View&nbsp;profile&nbsp;on&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-demenech/)](https://www.linkedin.com/in/felipe-demenech/)
