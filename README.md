@@ -1,4 +1,4 @@
-# OBS: Personal GitHub NOT UPDATED.
+# 🔴**IMPORTANT**: Personal projects **NOT UPDATED**🔴
 
 # Felipe Demenech Vasconcelos.
 
