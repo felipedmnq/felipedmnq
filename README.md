@@ -1,5 +1,3 @@
-# 🔴**IMPORTANT**: Personal projects **NOT UPDATED**🔴
-
 # Felipe Demenech Vasconcelos.
 
 ## Environmental Engineer :twisted_rightwards_arrows: Data Engineer.
