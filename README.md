@@ -1,6 +1,6 @@
 # Felipe Demenech Vasconcelos.
 
-## Environmental Engineer :twisted_rightwards_arrows: Data Engineer.
+## Data Engineer.
 
 
 <div align="left">
