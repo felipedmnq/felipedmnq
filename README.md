@@ -1,13 +1,6 @@
 # Felipe Demenech Vasconcelos.
 
 ## Data Engineer.
-
-
-<div align="left">
-  <a href="https://github.com/otacilio-psf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipedmnq&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedmnq&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
   
 <div align="left">
   <a href = "Databricks DE associate" target="_blank"><img height="100" src="https://images.squarespace-cdn.com/content/v1/5bce4071ab1a620db382773e/62f853ba-36ad-4183-8415-b48f467c2de2/Data+Engineer+Associate+Badge.png" target="_blank"></a>
